@@ -6,6 +6,7 @@
 ---
 ### Overview
 This project implements a Process Scheduler in Rust, handling various process scheduling algorithms like Round Robin, Round Robin with Priorities, and Completely Fair Scheduling (CFS). The project also handles system events like Fork, Sleep, Wait, Signal, and Exit, providing flexibility for process management.
+
 ---
 
 ### Funcțiile pentru Scheduler
